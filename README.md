@@ -4,7 +4,7 @@
 - Torch
 
 
-# To run locally run
+# To run locally using PostMan / Rest Client
 - CLone the project and run python main.py 
 
 
